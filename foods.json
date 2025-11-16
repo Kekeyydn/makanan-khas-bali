@@ -1,0 +1,14 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"foods_db"},
+{"type":"table","name":"foods","database":"foods_db","data":
+[
+{"id":"1","name":"Babi Guling","origin":"Gianyar","description":"Daging babi panggang dengan bumbu lengkap khas Bali seperti kunyit, bawang putih, lengkuas, dan rempah tradisional.","poster":"https:\/\/ibb.co.com\/6R6v8gzT"},
+{"id":"2","name":"Sate Lilit","origin":"Klungkung","description":"Sate dari daging cincang yang dibumbui kemudian dililitkan pada batang serai, memiliki aroma rempah yang kuat.","poster":"https:\/\/ibb.co.com\/WvzKDX2T"},
+{"id":"3","name":"Lawar","origin":"Badung","description":"Campuran sayuran, kelapa parut, dan bumbu tradisional. Sering dicampur daging cincang atau darah segar.","poster":"https:\/\/ibb.co.com\/fV4zWCC8"},
+{"id":"4","name":"Ayam Betutu","origin":"Gilimanuk","description":"Ayam utuh yang dimasak perlahan bersama bumbu betutu khas Bali, menghasilkan cita rasa pedas dan smokey.","poster":"https:\/\/ibb.co.com\/wNX2bvdm"},
+{"id":"5","name":"Serombotan","origin":"Klungkung","description":"Hidangan sayur rebus dengan bumbu khas Klungkung berupa sambal kacang, terasi, dan minyak kelapa.","poster":"https:\/\/ibb.co.com\/9kTPNStp"},
+{"id":"6","name":"Jaja Laklak","origin":"Tabanan","description":"Kue tradisional Bali yang terbuat dari tepung beras, air daun suji, santan, dan dihidangkan dengan taburan kelapa parut dan gula merah cair.","poster":"https:\/\/ibb.co.com\/nNDXSwpH"}
+]
+}
+]
